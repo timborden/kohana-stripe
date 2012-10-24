@@ -1,0 +1,1 @@
+# Stripe API Wrapper Library for Kohana 3.2.x
